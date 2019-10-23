@@ -114,20 +114,19 @@
 
 @media (max-height: 538px) {
     .header {
-        height: 60vh;
+        height: 100vh;
     }
     .col-md-6 {
         width: 50%;
     }
     .header .primary{
-        top: -40px;
-        font-size: 1.4em;
+        font-size: 1.5em;
     }
 
     .header .secundary img{
-        max-width: 55vh;
+        max-width: 85vh;
         right: 50px;
-        top: -45px;
+        top: -30px;
     }
 }
 
