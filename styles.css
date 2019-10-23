@@ -107,7 +107,7 @@
 
     .header .secundary img{
         max-width: 70vh;
-        rigth: 45px;
+        left: -50px;
     }
     .about {
         padding: 25px;
