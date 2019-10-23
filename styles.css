@@ -98,7 +98,7 @@
 
 @media (max-width: 438px) {
     .header {
-        height: 82vh;
+        height: 100vh;
     }
     .header .primary{
         top: 30px;
@@ -107,7 +107,8 @@
     }
 
     .header .secundary img{
-        max-width: 55vh;
+        max-width: 70vh;
+        rigth: 20px;
     }
 }
 
