@@ -129,7 +129,7 @@
         width: 50%;
     }
     .header .primary{
-        left: 40px;
+        left: -40px;
         font-size: 2em;
         top: 10px;
     }
