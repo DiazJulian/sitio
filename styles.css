@@ -89,7 +89,7 @@
 }
 
 .about {
-    padding: 100px;
+    padding: 50px;
 }
 
 .footer {
@@ -121,26 +121,24 @@
     
     
 
-/*
-@media (max-height: 538px) {
+@media (max-height: 500px) {
     .header {
         height: 100vh;
     }
     .col-md-6 {
-        width: 51%;
+        width: 50%;
     }
     .header .primary{
         top: -40px;
-        font-size: 1.4em;
+        font-size: 2em;
         top: 10px;
     }
 
     .header .secundary img{
-        max-width: 62vh;
+        max-width: 90vh;
         right: 120px;
-        top: -45px;
+        top: -18px;
     }
-}*/
 
 /* @media (max-width: 768px) {
     .header {
