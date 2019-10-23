@@ -107,7 +107,8 @@
     }
 
     .header .secundary img{
-        max-width: 55vh;
+        max-width: 70vh;
+        right: 20px;
     }
 }
 
