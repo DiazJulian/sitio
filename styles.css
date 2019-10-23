@@ -102,16 +102,26 @@
     }
     .header .primary{
         top: 30px;
-        left: 30px;
-        font-size: 1.5em;
+        font-size: 1.8em;
     }
 
     .header .secundary img{
         max-width: 70vh;
-        right: 20px;
+        right: 45px;
     }
-}
+    .about {
+       padding: 25px;
+    }
+    .about .icon {
+        padding: 25px;
+    }
+    .footer {
+        padding: 8px;
+    }
+    
+    
 
+/*
 @media (max-height: 538px) {
     .header {
         height: 100vh;
@@ -130,7 +140,7 @@
         right: 120px;
         top: -45px;
     }
-}
+}*/
 
 /* @media (max-width: 768px) {
     .header {
