@@ -121,7 +121,7 @@
 }  
     
 
-@media (max-height: 500px) {
+@media (max-height: 510px) {
     .header {
         height: 100vh;
     }
